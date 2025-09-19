@@ -1,6 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![PySpark](https://img.shields.io/badge/Spark-3.5-orange)
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Status](https://img.shields.io/badge/status-%20Desenvolvido-green)
 
 #  Desafio Técnico – Hackathon Forecast Big Data 2025
