@@ -52,9 +52,9 @@ pip install requirements_model.txt
 ---
 ## Estrutura
 
-├── Base_de_dados/        # dados de treino
+├── Base_de_dados/      
 ├── dados_tratados/ 
-├── Notebooks/   # EDA e protótipos
+├── Notebooks/   
 ├── Requerements/
 ├── Desafio Técnico – Hackathon Forecast Big Data 2025.docx
 ├── previsao_demanda.csv
