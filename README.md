@@ -56,9 +56,8 @@ pip install requirements_model.txt
 ├── dados_tratados/ 
 ├── Notebooks/   
 ├── Requerements/
-├── Desafio Técnico – Hackathon Forecast Big Data 2025.docx
-├── previsao_demanda.csv
-
+├── Desafio Técnico – Hackathon Forecast Big Data 2025.docx/
+├── previsao_demanda.csv/
 └── README.md
 
 ---
