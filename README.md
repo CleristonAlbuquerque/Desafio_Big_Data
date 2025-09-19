@@ -52,13 +52,12 @@ pip install requirements_model.txt
 ---
 ## Estrutura
 
-├── Base_de_dados/      
-├── dados_tratados/ 
-├── Notebooks/   
-├── Requerements/
-├── Desafio Técnico – Hackathon Forecast Big Data 2025.docx/
-├── previsao_demanda.csv/
-└── README.md
+- Link para acesso a base de dados: [Acesso:](https://drive.google.com/drive/folders/1uqz2lxuV8U3q8p5qiUctm_b0UPf7F1NE?usp=sharing) 
+- Requerements.txt (Análise de Dados)
+- Requerements_model.txt (Modelagem)
+-  Desafio Técnico – Hackathon Forecast Big Data 2025.docx
+-  previsao_demanda.csv/
+-  README.md
 
 ---
 ## Avaliação
